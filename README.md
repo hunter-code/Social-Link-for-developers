@@ -49,9 +49,9 @@ Somente estático não é necessário nehuma fonte externa.
 
 - Aprendi muito com a utulização de eventos de clik, em links de elementos html.
 
-- Superei diviculdades com relção ao posicionamento e pequenos erros genéricos aos navegadores.
+- Superei dificuldades com relção ao posicionamento e pequenos erros genéricos aos navegadores.
 
-- Foi fundamental para intender a integração da camada etrutural,camada de apresentação.
+- Foi fundamental para intender a integração da camada etrutural com a camada de apresentação.
 
 ## 🛠️ Construído com
 
