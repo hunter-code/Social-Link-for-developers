@@ -77,7 +77,7 @@ Este projeto está sob a licença (Alberdam Santiago) - veja o arquivo [LICENSE.
 ## 🎁 Expressões de gratidão
 
 - Conte a outras pessoas sobre este projeto 📢;
-- Convide alguém da equipe para uma cerveja 🍺;
+- Convide alguém da equipe para um refrigeirante 🥤;
 - Um agradecimento publicamente 🫂;
 - etc.
 
