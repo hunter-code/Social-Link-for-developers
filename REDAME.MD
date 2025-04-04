@@ -3,6 +3,7 @@
 Este repositório contém um card com links para mídias sociais,apresentando os principais canais de acesso e divulgação do profissional. Existe a mudança de estado de claro para escuro.
 
 <img src="./assets/dev.jpeg" alt="Imagen do desenvolvedor">
+<img src="./assets/moon.jpg" alt="Imagen do desenvolvedor">
 
 ## 🚀 Começando
 
